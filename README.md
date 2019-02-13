@@ -1,5 +1,5 @@
 # WS4-Team
-#More about Models, designing schemas
+More about Models, designing schemas
 
 Team Members:
 Mehar Choudhary Meenavilli,

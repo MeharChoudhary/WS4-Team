@@ -1,7 +1,7 @@
 # WS4-Team
-More about Models, designing schemas
+#More about Models, designing schemas
 
-Team:
+Team Members:
 Mehar Choudhary Meenavilli,
 Aakash Valluru,
 Dasari Venkat Sai Krishna,
